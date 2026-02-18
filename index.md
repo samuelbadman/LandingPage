@@ -2,7 +2,7 @@
 
 <img src="Content/Profile_photo_flat_512.png" alt="Portrait" width="190" height="190"><br>
 Graduate<br><br>
-<a href="https://linkedin.com/in/samuelbadman-dev"><b>Linkedin</b></a><br>
+<a href="https://linkedin.com/in/samuelbadman-dev" target="_blank" rel="noopener noreferrer"><b>Linkedin</b></a><br>
 Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b></a><br><br>
 
 <a href="https://samuelbadman.com" target="_blank" rel="noopener noreferrer"><b>SHOWREEL (under development)</b></a><br><br>
