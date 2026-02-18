@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="Content/Profile_photo_flat_512.png" alt="Portrait" width="190" height="190"><br>
-Real-time Technical Artist / Animator, Unreal Engine Developer & Blueprint, C++, HLSL / GLSL Programmer blending code, art and animation to build ambitious experiences<br><br>
+Real-time Technical Artist / Animator, C++, HLSL / GLSL Programmer<br><br>
 <a href="https://linkedin.com/in/samuelbadman-dev"><b>Linkedin</b></a><br>
 Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b></a><br><br>
 
