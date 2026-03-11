@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Content/Profile_photo_512.png" alt="Portrait" width="190" height="190"><br>
+<img src="Content/Profile_Photo_512.png" alt="Portrait" width="190" height="190"><br>
 C++ Programmer, Unreal Engine Developer | C++, Unreal, Blueprint, HLSL, GLSL<br><br>
 <a href="https://linkedin.com/in/samuelbadman-dev" target="_blank" rel="noopener noreferrer"><b>Linkedin</b></a><br>
 Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b></a><br><br>
