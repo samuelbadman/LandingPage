@@ -5,7 +5,8 @@ C++ Programmer, Unreal Engine Developer | C++, Unreal, Blueprint, HLSL, GLSL<br>
 <a href="https://linkedin.com/in/samuelbadman-dev" target="_blank" rel="noopener noreferrer"><b>Linkedin</b></a><br>
 Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b></a><br><br>
 
-<a href="https://www.youtube.com/watch?v=lv4hrEDmKY8" target="_blank" rel="noopener noreferrer"><b>SHOWREEL</b></a><br><br>
+<a href="https://www.youtube.com/watch?v=lv4hrEDmKY8" target="_blank" rel="noopener noreferrer"><b>SHOWREEL (C++, HLSL, GLSL, Blueprint, Proprietary Technology, Unreal Engine)</b></a><br>
+<a href="https://youtu.be/xh530eMX3Nk" target="_blank" rel="noopener noreferrer"><b>SHOWREEL (Unreal Engine, Lighting, Modelling, Animation)</b></a><br><br>
 
 PORTFOLIO<br>
 <a href="https://cosmicplayground.itch.io/the-uncertainty-principle" target="_blank" rel="noopener noreferrer"><b>The Uncertainty Principle (96 Hour Game Jam Game, Unreal Engine)</b></a><br>
