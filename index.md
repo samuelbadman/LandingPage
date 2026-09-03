@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="Content/Profile_Photo_512.png" alt="Portrait" width="190" height="190"><br>
-Game programmer | 3D Generalist | Unreal Engine<br><br>
+Game programmer | 3D Artist & Animator | Unreal Engine<br><br>
 <a href="https://linkedin.com/in/sbadman" target="_blank" rel="noopener noreferrer"><b>Linkedin</b></a><br>
 Email: <a href="mailto: samuelbadman@outlook.com"><b>samuelbadman@outlook.com</b></a><br><br>
 
